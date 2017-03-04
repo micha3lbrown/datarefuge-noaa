@@ -33,6 +33,7 @@ console.log(uriArray);
 
 ### Part II Ruby
 Now that we have the `dateArray` from completing the Javascript section above, we can now run a Ruby script that will use Net::HTTP to request and Nokogiri to parse the response.
+
 1. Update `date_array` with `dateArray` from the JS section.
 2. Ensure that `Nokogiri` and `net/http` are installed and accessible from your currently running ruby environment
 3. `chmod +x ./scrape_generated_urls.rb`
